@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Descripción
+##  Descripción
 
 Implementación desde cero en C++ de las funciones matemáticas fundamentales **sin usar `math.h` ni ninguna librería externa**. Cada función está construida manualmente usando métodos numéricos clásicos:
 
